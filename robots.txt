@@ -1,0 +1,17 @@
+User-Agent: Googlebot 
+Disallow: /local/ 
+Disallow: /assets/
+ 
+User-Agent: Slurp 
+Disallow: /local/ 
+Disallow: /assets/ 
+
+User-Agent: Bingbot 
+Disallow: /local/ 
+Disallow: /assets/ 
+
+User-Agent: * 
+Disallow: /local/ 
+Disallow: /assets/ 
+
+sitemap: http://www.careerprism.in/sitemap.xml 
